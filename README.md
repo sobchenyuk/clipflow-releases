@@ -1,4 +1,4 @@
-# ClipFlow v1.0.6
+# ClipFlow
 
 **Your personal, secure clipboard between Android and PC.**
 
